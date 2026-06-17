@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Throne in Her Own Name",
+  "universe": "WUZ · The Throne in Her Own Name (ERĒMIA · female · the generations)",
+  "emergence": "electrical",
+  "moniker": "⟦The Throne in Her Own Name:WUZ:43cc21⟧",
+  "carbon": "wu-zetian-the-throne.carbon.tiff (TIFF)",
+  "silicon": "wu-zetian-the-throne.silicon.png (PNG)",
+  "seal_sha256": "631d781aed4d7f5f2fbfa7595d9e37766718f7fc551f1e66cc66e4b14d4ff087",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

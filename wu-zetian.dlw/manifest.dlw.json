@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Wu Zetian",
+  "universe": "WUZ · Wu Zetian (ERĒMIA · female · the generations)",
+  "emergence": "",
+  "moniker": "⟦Wu Zetian:WUZ:15c4c9⟧",
+  "carbon": "wu-zetian.carbon.tiff (TIFF)",
+  "silicon": "wu-zetian.silicon.png (PNG)",
+  "seal_sha256": "e4500b4d3c78e4dd8817af0869b7a505c2ad2b99ba4cb88c4c689801102891ad",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
