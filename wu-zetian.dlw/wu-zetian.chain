@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 737
+slug  : wu-zetian
+seal  : e4500b4d3c78e4dd8817af0869b7a505c2ad2b99ba4cb88c4c689801102891ad
+prev  : a747e28acac9c1a71a4fcb7d34b3f933ff54b8733c2cc287f340e449db88d338
+link  : 469de950eaf63c2de6d7a7e5ab091025c1c84408e13d38acb09eabd1c457bf41
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
